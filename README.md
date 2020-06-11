@@ -5,6 +5,10 @@
 
 - [DaFont](https://www.dafont.com/es/)
 
+## Sounds and music
+
+- [Freesound](https://freesound.org)
+- [Open Game Art](https://opengameart.org/)
 
 ## Color pickers
 
